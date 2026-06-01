@@ -337,7 +337,6 @@ return 0;
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-Famous DinosaursTyrannosaurus rex: One of the largest known carnivorous preda
 tors, measuring up to 40 feet in length and known for its massive bite force.Triceratops: A heavily built herbivore re
 cognizabl
 
