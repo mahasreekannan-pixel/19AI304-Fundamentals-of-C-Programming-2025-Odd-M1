@@ -337,9 +337,6 @@ return 0;
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-tors, measuring up to 40 feet in length and known for its massive bite force.Triceratops: A heavily built herbivore re
-cognizabl
-
 
 er live, this long-necked giant (sauropod) could weigh over 70 tons.Velociraptor: A feathered, turkey-sized predator that possessed sharp, sickle-shaped claws and was highly
 Key Facts About DinosaursThe Name: "Dinosaur" comes from the Greek words meaning "terrible lizard," coined in 1842 by English paleontologist Sir Richard Owen.Not All Extinct: Scientists classify them into two main groups: non-avian dinosaurs (the extinct ones like the T. rex and Triceratops) and avian dinosaurs (which are modern birds).The "Age of Reptiles": They lived during the Mesozoic Era, which is divided into three geological periods: the Triassic, Jurassic, and Cretaceous.Anatomical Edge: Unlike ancient crocodiles or modern lizards whose legs sprawl out to the sides, dinosaurs walked with their legs directly beneath their bodies, giving them greater speed and agility.Fossil Record: Our understanding of them comes from bones, teeth, eggs, and trackways left behind, which are studied by paleontologists.Famous DinosaursTyrannosaurus rex: One of the largest known carnivorous predators, measuring up to 40 feet in length and known for its massive bite force.Triceratops: A heavily built herbivore recognizable by its large bony frill and three facial horns used for defense.Argentinosaurus: Among the largest land animals to ever live, this long-necked giant (sauropod) could weigh over 70 tons.Velociraptor: A feathered, turkey-sized predator that possessed sharp, sickle-shaped claws and was highly
