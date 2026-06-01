@@ -337,4 +337,11 @@ return 0;
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
+Famous DinosaursTyrannosaurus rex: One of the largest known carnivorous preda
+tors, measuring up to 40 feet in length and known for its massive bite force.Triceratops: A heavily built herbivore re
+cognizabl
 
+
+e by its large bony frill and three facial horns used for defense.Argentinosaurus: Among t
+he largest land animals to ev
+er live, this long-necked giant (sauropod) could weigh over 70 tons.Velociraptor: A feathered, turkey-sized predator that possessed sharp, sickle-shaped claws and was highly
